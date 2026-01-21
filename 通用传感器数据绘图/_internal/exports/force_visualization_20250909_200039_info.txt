@@ -1,0 +1,64 @@
+3D力变形网格可视化数据信息
+========================================
+
+保存时间: 2025-09-09 20:00:41
+网格分辨率: 20×20
+X轴网格范围: ±5.00
+Y轴网格范围: ±5.00
+当前力数据: Fx=0.639, Fy=0.000, Fz=0.338
+衰减参数σ: 3.0
+配色方案: viridis
+
+文件说明:
+- .npz文件: NumPy格式，包含所有原始和变形数据
+- .csv文件: 表格格式，便于Excel等软件打开
+- .mat文件: MATLAB格式，便于MATLAB分析
+- .txt文件: 本信息文件
+
+数据结构说明:
+- X/Y/Z_original: 原始网格坐标
+- X/Y/Z_deformed: 力作用后的变形坐标
+- grid_values: 每个网格点的数值大小（用于颜色映射）
+- distance_from_origin: 到原点的距离
+- decay_factor: 高斯衰减因子
+- grid_i/grid_j: 网格索引（仅CSV格式）
+
+重绘说明:
+使用grid_values作为颜色映射的数值，配合X/Y_deformed坐标
+可以完全重现原始的3D可视化效果。
+
+Python重绘示例代码:
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
+
+# 加载数据
+data = np.load('force_visualization_20250909_200039_data.npz')
+X_deformed = data['X_deformed']
+Y_deformed = data['Y_deformed']
+Z_deformed = data['Z_deformed']
+grid_values = data['grid_values']  # 用于颜色映射的数值
+
+# 重新绘制3D图形
+fig = plt.figure(figsize=(10, 8))
+ax = fig.add_subplot(111, projection='3d')
+surf = ax.plot_surface(
+    X_deformed, Y_deformed, grid_values,  # 注意：Z用grid_values
+    cmap='viridis',
+    alpha=0.8
+)
+plt.colorbar(surf)
+plt.show()
+```
+
+MATLAB重绘示例代码:
+```matlab
+% 加载数据
+data = load('force_visualization_20250909_200039_data.mat');
+% 重新绘制3D图形
+figure;
+surf(data.X_deformed, data.Y_deformed, data.grid_values);
+colorbar;
+colormap('viridis');
+```

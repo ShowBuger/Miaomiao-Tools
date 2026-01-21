@@ -1,0 +1,899 @@
+{
+  "预抓取新": {
+    "name": "预抓取新",
+    "arm_angles": [
+      89.0,
+      -59.0,
+      -31.0,
+      8.0,
+      4.0,
+      39.0
+    ],
+    "hand_angles": [
+      0,
+      0,
+      800,
+      800,
+      1000,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1750333442.230024,
+    "last_modified": 1750334447.9875708
+  },
+  "初始抓": {
+    "name": "初始抓",
+    "arm_angles": [
+      91.0,
+      -49.0,
+      -38.0,
+      4.0,
+      -40.0,
+      -23.0
+    ],
+    "hand_angles": [
+      0,
+      0,
+      700,
+      700,
+      900,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751026630.7385445,
+    "last_modified": 1751030067.3869503
+  },
+  "抓薯片": {
+    "name": "抓薯片",
+    "arm_angles": [
+      91,
+      -49,
+      -38,
+      4,
+      -40,
+      -23
+    ],
+    "hand_angles": [
+      0,
+      0,
+      482,
+      560,
+      631,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751028029.3053432,
+    "last_modified": 1751029986.037499
+  },
+  "蘸取终": {
+    "name": "蘸取终",
+    "arm_angles": [
+      95,
+      -48,
+      -44,
+      9,
+      -34,
+      -23
+    ],
+    "hand_angles": [
+      0,
+      0,
+      482,
+      560,
+      632,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751029672.8218572,
+    "last_modified": 1751029672.8218575
+  },
+  "蘸取后抬起": {
+    "name": "蘸取后抬起",
+    "arm_angles": [
+      95,
+      -45,
+      -44,
+      9,
+      -34,
+      -11
+    ],
+    "hand_angles": [
+      0,
+      0,
+      482,
+      560,
+      632,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751029713.1337175,
+    "last_modified": 1751029713.1337178
+  },
+  "放置前": {
+    "name": "放置前",
+    "arm_angles": [
+      90,
+      -37,
+      -44,
+      -14,
+      -57,
+      -11
+    ],
+    "hand_angles": [
+      0,
+      0,
+      482,
+      560,
+      632,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751029798.2054496,
+    "last_modified": 1751034769.0579443
+  },
+  "放置": {
+    "name": "放置",
+    "arm_angles": [
+      90,
+      -37,
+      -44,
+      -14,
+      -57,
+      -11
+    ],
+    "hand_angles": [
+      0,
+      0,
+      705,
+      714,
+      774,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751029817.3348665,
+    "last_modified": 1751034782.0690846
+  },
+  "准备蘸": {
+    "name": "准备蘸",
+    "arm_angles": [
+      96,
+      -47,
+      -35,
+      3,
+      -41,
+      -23
+    ],
+    "hand_angles": [
+      0,
+      0,
+      482,
+      560,
+      631,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751030314.7504876,
+    "last_modified": 1751030314.7504878
+  },
+  "蘸取开始": {
+    "name": "蘸取开始",
+    "arm_angles": [
+      96,
+      -51,
+      -35,
+      3,
+      -41,
+      -23
+    ],
+    "hand_angles": [
+      0,
+      0,
+      482,
+      560,
+      631,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751030356.2302706,
+    "last_modified": 1751030356.2302709
+  },
+  "蘸取中": {
+    "name": "蘸取中",
+    "arm_angles": [
+      96,
+      -51,
+      -35,
+      3,
+      -41,
+      -17
+    ],
+    "hand_angles": [
+      0,
+      0,
+      482,
+      560,
+      631,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751030427.131776,
+    "last_modified": 1751030427.131776
+  },
+  "开始蘸取": {
+    "name": "开始蘸取",
+    "arm_angles": [
+      91,
+      -62,
+      -18,
+      4,
+      -31,
+      -23
+    ],
+    "hand_angles": [
+      0,
+      0,
+      482,
+      558,
+      632,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751033671.2118123,
+    "last_modified": 1751033671.2118125
+  },
+  "结束蘸取": {
+    "name": "结束蘸取",
+    "arm_angles": [
+      91,
+      -62,
+      -18,
+      4,
+      -33,
+      -23
+    ],
+    "hand_angles": [
+      0,
+      0,
+      482,
+      558,
+      632,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751033696.845237,
+    "last_modified": 1751033696.8452375
+  },
+  "蘸取完成": {
+    "name": "蘸取完成",
+    "arm_angles": [
+      91,
+      -56,
+      -18,
+      4,
+      -33,
+      -23
+    ],
+    "hand_angles": [
+      0,
+      0,
+      482,
+      558,
+      632,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751033716.8619294,
+    "last_modified": 1751033716.8619297
+  },
+  "最最最开始": {
+    "name": "最最最开始",
+    "arm_angles": [
+      91,
+      -49,
+      -26,
+      3,
+      -50,
+      -23
+    ],
+    "hand_angles": [
+      0,
+      0,
+      700,
+      700,
+      900,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751034227.0087562,
+    "last_modified": 1751034589.0030644
+  },
+  "2": {
+    "name": "2",
+    "arm_angles": [
+      91.0,
+      -49.0,
+      -38.0,
+      4.0,
+      -40.0,
+      -23.0
+    ],
+    "hand_angles": [
+      0,
+      0,
+      513,
+      595,
+      653,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751038065.322794,
+    "last_modified": 1751038065.3227942
+  },
+  "3": {
+    "name": "3",
+    "arm_angles": [
+      91.0,
+      -49.0,
+      -38.0,
+      4.0,
+      -40.0,
+      -23.0
+    ],
+    "hand_angles": [
+      0,
+      0,
+      508,
+      583,
+      640,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751038074.8775222,
+    "last_modified": 1751038074.8775222
+  },
+  "豆腐1": {
+    "name": "豆腐1",
+    "arm_angles": [
+      91.0,
+      -49.0,
+      -38.0,
+      4.0,
+      -40.0,
+      -23.0
+    ],
+    "hand_angles": [
+      0,
+      0,
+      743,
+      742,
+      900,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751039247.365069,
+    "last_modified": 1751039247.3650692
+  },
+  "食指触摸": {
+    "name": "食指触摸",
+    "arm_angles": [
+      91.0,
+      -49.0,
+      -38.0,
+      4.0,
+      -40.0,
+      -23.0
+    ],
+    "hand_angles": [
+      0,
+      0,
+      743,
+      718,
+      900,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751039290.0036876,
+    "last_modified": 1751039290.0036876
+  },
+  "拇指触摸": {
+    "name": "拇指触摸",
+    "arm_angles": [
+      91.0,
+      -49.0,
+      -38.0,
+      4.0,
+      -40.0,
+      -23.0
+    ],
+    "hand_angles": [
+      0,
+      0,
+      743,
+      742,
+      803,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751039362.4856625,
+    "last_modified": 1751039945.0934353
+  },
+  "接近1": {
+    "name": "接近1",
+    "arm_angles": [
+      91.0,
+      -49.0,
+      -38.0,
+      4.0,
+      -40.0,
+      -23.0
+    ],
+    "hand_angles": [
+      0,
+      0,
+      727,
+      727,
+      887,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751039626.562513,
+    "last_modified": 1751039626.5625134
+  },
+  "接近2": {
+    "name": "接近2",
+    "arm_angles": [
+      91.0,
+      -49.0,
+      -38.0,
+      4.0,
+      -40.0,
+      -23.0
+    ],
+    "hand_angles": [
+      0,
+      0,
+      707,
+      709,
+      868,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751039644.299791,
+    "last_modified": 1751039644.2997916
+  },
+  "接近3": {
+    "name": "接近3",
+    "arm_angles": [
+      91.0,
+      -49.0,
+      -38.0,
+      4.0,
+      -40.0,
+      -23.0
+    ],
+    "hand_angles": [
+      0,
+      0,
+      684,
+      695,
+      850,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751039668.6930907,
+    "last_modified": 1751039668.6930912
+  },
+  "接近4": {
+    "name": "接近4",
+    "arm_angles": [
+      91.0,
+      -49.0,
+      -38.0,
+      4.0,
+      -40.0,
+      -23.0
+    ],
+    "hand_angles": [
+      0,
+      0,
+      669,
+      675,
+      838,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751039691.612378,
+    "last_modified": 1751039691.6123781
+  },
+  "接近5": {
+    "name": "接近5",
+    "arm_angles": [
+      91.0,
+      -49.0,
+      -38.0,
+      4.0,
+      -40.0,
+      -23.0
+    ],
+    "hand_angles": [
+      0,
+      0,
+      658,
+      658,
+      822,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751040612.180082,
+    "last_modified": 1751040612.1800828
+  },
+  "接近6": {
+    "name": "接近6",
+    "arm_angles": [
+      91.0,
+      -49.0,
+      -38.0,
+      4.0,
+      -40.0,
+      -23.0
+    ],
+    "hand_angles": [
+      0,
+      0,
+      652,
+      652,
+      813,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751040702.9974463,
+    "last_modified": 1751040702.9974465
+  },
+  "接近7": {
+    "name": "接近7",
+    "arm_angles": [
+      91.0,
+      -49.0,
+      -38.0,
+      4.0,
+      -40.0,
+      -23.0
+    ],
+    "hand_angles": [
+      0,
+      0,
+      652,
+      652,
+      804,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751040912.9808552,
+    "last_modified": 1751040912.9808557
+  },
+  "接近8": {
+    "name": "接近8",
+    "arm_angles": [
+      91.0,
+      -49.0,
+      -38.0,
+      4.0,
+      -40.0,
+      -23.0
+    ],
+    "hand_angles": [
+      0,
+      0,
+      643,
+      642,
+      781,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751040950.6830373,
+    "last_modified": 1751040950.6830375
+  },
+  "接近9": {
+    "name": "接近9",
+    "arm_angles": [
+      91.0,
+      -49.0,
+      -38.0,
+      4.0,
+      -40.0,
+      -23.0
+    ],
+    "hand_angles": [
+      0,
+      0,
+      629,
+      628,
+      765,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751041049.3408737,
+    "last_modified": 1751041049.340874
+  },
+  "接近10": {
+    "name": "接近10",
+    "arm_angles": [
+      91.0,
+      -49.0,
+      -38.0,
+      4.0,
+      -40.0,
+      -23.0
+    ],
+    "hand_angles": [
+      0,
+      0,
+      616,
+      615,
+      752,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751041060.8028288,
+    "last_modified": 1751041060.8028297
+  },
+  "抬起": {
+    "name": "抬起",
+    "arm_angles": [
+      91,
+      -43,
+      -38,
+      4,
+      -40,
+      -23
+    ],
+    "hand_angles": [
+      0,
+      0,
+      616,
+      615,
+      752,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751041075.5879414,
+    "last_modified": 1751041075.587942
+  },
+  "接近11": {
+    "name": "接近11",
+    "arm_angles": [
+      91.0,
+      -49.0,
+      -38.0,
+      4.0,
+      -40.0,
+      -23.0
+    ],
+    "hand_angles": [
+      0,
+      0,
+      608,
+      609,
+      741,
+      0
+    ],
+    "arm_velocity": 20,
+    "hand_velocity": 1000,
+    "creation_time": 1751041308.5426993,
+    "last_modified": 1751041308.5426998
+  },
+  "吸取1": {
+    "name": "吸取1",
+    "arm_angles": [
+      94.0,
+      -60.0,
+      -115.0,
+      4.0,
+      76.0,
+      55.0
+    ],
+    "hand_angles": [
+      0,
+      0,
+      0,
+      550,
+      817,
+      0
+    ],
+    "arm_velocity": 10,
+    "hand_velocity": 800,
+    "creation_time": 1751639395.3266575,
+    "last_modified": 1751640388.2293785
+  },
+  "吸取前抓住": {
+    "name": "吸取前抓住",
+    "arm_angles": [
+      94.0,
+      -60.0,
+      -115.0,
+      4.0,
+      76.0,
+      55.0
+    ],
+    "hand_angles": [
+      0,
+      0,
+      0,
+      499,
+      660,
+      0
+    ],
+    "arm_velocity": 10,
+    "hand_velocity": 200,
+    "creation_time": 1751639527.9006345,
+    "last_modified": 1751641643.6283002
+  },
+  "准备吸取": {
+    "name": "准备吸取",
+    "arm_angles": [
+      92.0,
+      -72.0,
+      -82.0,
+      4.0,
+      58.0,
+      55.0
+    ],
+    "hand_angles": [
+      0,
+      0,
+      0,
+      511,
+      668,
+      0
+    ],
+    "arm_velocity": 10,
+    "hand_velocity": 200,
+    "creation_time": 1751639770.8062105,
+    "last_modified": 1751641777.6128068
+  },
+  "吸取": {
+    "name": "吸取",
+    "arm_angles": [
+      92.0,
+      -72.0,
+      -82.0,
+      4.0,
+      58.0,
+      55.0
+    ],
+    "hand_angles": [
+      0,
+      0,
+      0,
+      470,
+      608,
+      0
+    ],
+    "arm_velocity": 10,
+    "hand_velocity": 200,
+    "creation_time": 1751639799.1422334,
+    "last_modified": 1751641774.8136156
+  },
+  "进入杯前": {
+    "name": "进入杯前",
+    "arm_angles": [
+      92.0,
+      -60.0,
+      -82.0,
+      4.0,
+      58.0,
+      55.0
+    ],
+    "hand_angles": [
+      0,
+      0,
+      0,
+      511,
+      668,
+      0
+    ],
+    "arm_velocity": 10,
+    "hand_velocity": 200,
+    "creation_time": 1751639872.5520642,
+    "last_modified": 1751641765.0895379
+  },
+  "放水位置": {
+    "name": "放水位置",
+    "arm_angles": [
+      98.0,
+      -60.0,
+      -114.0,
+      4.0,
+      86.0,
+      55.0
+    ],
+    "hand_angles": [
+      0,
+      0,
+      0,
+      511,
+      668,
+      0
+    ],
+    "arm_velocity": 10,
+    "hand_velocity": 200,
+    "creation_time": 1751639973.894072,
+    "last_modified": 1751641769.9117532
+  },
+  "放水": {
+    "name": "放水",
+    "arm_angles": [
+      98.0,
+      -60.0,
+      -114.0,
+      4.0,
+      86.0,
+      55.0
+    ],
+    "hand_angles": [
+      0,
+      0,
+      0,
+      470,
+      608,
+      0
+    ],
+    "arm_velocity": 10,
+    "hand_velocity": 30,
+    "creation_time": 1751640017.9338083,
+    "last_modified": 1751642343.2826006
+  },
+  "吸取前抬高": {
+    "name": "吸取前抬高",
+    "arm_angles": [
+      94.0,
+      -55.0,
+      -115.0,
+      4.0,
+      76.0,
+      55.0
+    ],
+    "hand_angles": [
+      0,
+      0,
+      0,
+      499,
+      660,
+      0
+    ],
+    "arm_velocity": 10,
+    "hand_velocity": 800,
+    "creation_time": 1751640505.755599,
+    "last_modified": 1751640516.5641558
+  }
+}
